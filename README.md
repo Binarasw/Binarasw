@@ -1,4 +1,4 @@
-👋 Hi there! I'm Binara Weerasinghe 👋
+👋 Hi there! I'm Binara SW👋
 
 🚀 Passionate Developer | 🎨 Front-End Enthusiast | 💡 Problem Solver
 
