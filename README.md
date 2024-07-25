@@ -5,8 +5,9 @@
 🔧 Tech Stack:
 
 Languages: JavaScript, HTML, CSS, SWIFT
+
 Frameworks: React, Node.js
-Tools: Git, GitHub, VSCode, npm
+
 🌱 Currently learning SwiftUI and exploring backend technologies.
 
 📚 I love contributing to open-source projects and building innovative applications.
